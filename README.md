@@ -1,1 +1,1 @@
-# AlpinePlantID-MobileNetV1
+# Efficient alpine grassland plant identification method based on optimized MobileNet V1
