@@ -3,7 +3,8 @@ Title: "Optimized MobileNet V1 with Efficient Channel Attention for Accurate Alp
 
 The paper is currently being submitted to the journal The Visual Computer with the following citation format: Zhang, T., Yao, H., Zhao, Y. et al. Optimized MobileNet V1 with Efficient Channel Attention for Accurate Alpine Grassland Plant Identification. Vis Comput(2025)
 
-![alt text](fig5-1.png)
+![fig5](https://github.com/user-attachments/assets/8c869d39-1b3a-4be8-8e4b-c6d1eee1aaac)
+
 
 This study aims to systematically evaluate the performance of different attention mechanisms (SE, CA, CBAM, ECA) in combination with various backbone networks (MobileNetV1/V2/V3, VGG16/19, ResNet152v2) for plant image classification tasks using deep learning methods. By constructing a unified experimental framework and conducting ablation studies, the specific contributions of each attention module to feature extraction and classification accuracy enhancement are quantitatively analyzed.
 
